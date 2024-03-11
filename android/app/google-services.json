@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211406344344",
+    "project_id": "sketchtoreal-9b302",
+    "storage_bucket": "sketchtoreal-9b302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211406344344:android:88fb1af45590ec777080ed",
+        "android_client_info": {
+          "package_name": "com.fypuol.sketch_to_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211406344344-e65utvrbdbpdbt46g3pb2h19f23ms1e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmRfg_WvXJ_BgqIKEevAxVXW1z3MTa1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211406344344-e65utvrbdbpdbt46g3pb2h19f23ms1e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
